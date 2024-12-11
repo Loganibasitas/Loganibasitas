@@ -7,7 +7,7 @@ I am a working towards my CSUF bachelor's degree and will be graduating in 2028.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Loganibasitas
+My GitHub page is [LoganIbasitas](http://github.com/Loganibasitas)
 
 ### Favorite CPSC 120L Labs
 
